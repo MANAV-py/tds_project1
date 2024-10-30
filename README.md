@@ -5,9 +5,11 @@ This repository contains data about GitHub users in Boston with over 100 followe
 
 ### Files
 
-1. `users.csv`: Contains information about 469 GitHub users in Boston with over 100 followers
-2. `repositories.csv`: Contains information about 45005 public repositories from these users
-3. `Data_Collection moudule`: Python script that uses request module to collect this data
+1. `users.csv`: Contains information about 469 GitHub users in Boston with over 100 followers.
+2. `repositories.csv`: Contains information about 45005 public repositories from these users.
+3. `Data_Collection.py`: Python script that uses request module to collect this data.
+4. `Analysis.py`: Python script used to analyze the data.
+   
 
 ### Data Collection
 
