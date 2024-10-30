@@ -1,15 +1,15 @@
- Tds_project1
-## GitHub Users in Boston
+# Tds_project1
+### GitHub Users in Boston
 
 This repository contains data about GitHub users in Boston with over 100 followers and their repositories.
 
-## Files
+### Files
 
 1. `users.csv`: Contains information about 469 GitHub users in Boston with over 100 followers
 2. `repositories.csv`: Contains information about 45005 public repositories from these users
 3. `Data_Collection moudule`: Python script that uses request module to collect this data
 
-## Data Collection
+### Data Collection
 
 - Data collected using GitHub API
 - Date of collection: 2024-10-23
