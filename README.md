@@ -1,5 +1,5 @@
 # Tds_project1
-# GitHub Users in Boston
+## GitHub Users in Boston
 
 This repository contains data about GitHub users in Boston with over 100 followers and their repositories.
 
